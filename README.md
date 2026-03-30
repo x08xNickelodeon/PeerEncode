@@ -13,7 +13,7 @@ It might be possible for people to see small bits of what your getting transcode
 
 You will have to meet the hardware requirements before you are allowed to use the network 
 Min Requirements:
-CPU: 4c/8t 2.5-3GHZ (at least 4th gen intel or zen 2 Ryzen)
-GPU: GTX 10xx is the min but would prefer GTX 16xx or Higher
-Ram: At least 1GB dedicated to the program
-Internet Connection: At least 250MB/s speed but 1gbs is prefered
+- CPU: 4c/8t 2.5-3GHZ (at least 4th gen intel or zen 2 Ryzen)
+- GPU: GTX 10xx is the min but would prefer GTX 16xx or Higher
+- Ram: At least 1GB dedicated to the program
+- Internet Connection: At least 250MB/s speed but 1gbs is prefered
